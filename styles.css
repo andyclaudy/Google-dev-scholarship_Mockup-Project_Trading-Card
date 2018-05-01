@@ -1,0 +1,45 @@
+#facts { font-style: italic;
+}
+
+.list-feature {
+	font-weight: bold;
+}
+
+.characteristics {
+	text-align: left;
+	list-style: none;
+	padding-left: 0;
+}
+
+h1 {
+  font-size: 2em;
+  padding-left: 30%;
+  color:#0d1019;
+}
+
+.card {
+	background: url("http://freedesignfile.com/upload/2017/03/Summer-beach-with-sea-	background-and-coconut-trees-vector-08.jpg");
+	border: 1px solid #bdcfed;
+	border-radius: 10px; 
+	padding: 10px;
+  padding-top: 2px;
+	box-shadow: 10px 15px 10px #bdcfed;
+	font-family: sans-seri;
+	width: 300px;
+}
+
+#information{
+
+	border: 1px solid #bdcfed;
+	border-radius: 10px;
+	padding: 0px 10px 0px 10px;
+	text-align: justify;
+  color:#101011;
+}
+
+#image{
+  width: 300px;
+  height:200px;
+  border-radius:8px;
+
+}
